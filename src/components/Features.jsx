@@ -22,7 +22,7 @@ const Features = () => {
           <BentoCard
             title={
               <>
-                radi<b>n</b>t
+                radia<b>n</b>t
               </>
             }
             src="videos/feature-1.mp4"
